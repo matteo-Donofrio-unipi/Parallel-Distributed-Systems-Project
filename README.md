@@ -1,2 +1,2 @@
 # Parallel-Distributed-Systems-Project
-Application developed for the Parallel &amp; Distributed Systems project: a multithreaded application performing a breadth first search visit(bfs) on a graph. The aim of the bfs is to find how many occurences of a certain value are present in the graph
+Implementation of a breadth first search on a graph, used as final project for the Parallel and Distributed Systems: Paradigms and Models course, A.A. 2020/21, Master's Degree in Computer Science, University of Pisa
